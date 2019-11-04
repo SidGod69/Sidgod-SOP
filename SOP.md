@@ -1,3 +1,6 @@
+12testing
+
+
 I have always been fascinated by computers. The flexibility of its applications and its widespread usage made me extremely curious about their detailed design. This was reflected in my undergraduate in Electrical and Electronics Engineering, where I developed a keen interest in the field of VLSI and computer logic. The complex nature and the far reaching applications of these topics motivate me to further my knowledge in this domain by pursuing a masters in Computer Engineering and contribute to the field with novel research. 
 
 I took a late interest in the VLSI field, with the introduction of the course “Analog and Digital VLSI Design”. I was quickly intrigued by the creative ways transistors were used, and realized the immense depth of the subject despite only existing for the past few decades. This pushed me to take up an additional elective course “Computer Architecture” , which exposed me to the creative endeavors by the engineers and scientists to achieve the processing power we have today. My passion towards circuits helped me achieve an ‘A’ grade in both courses, and persuaded me to take up an internship opportunity in this field.
