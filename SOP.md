@@ -1,5 +1,4 @@
-12testing
-
+fixed first para: As a student, I have firmly believed that it is necessary to take a deep look at all the topics available before choosing a field of interest. Pertaining to my beliefs, I actively explored the topics available in my undergraduate in Electrical and Electronics engineering, in which the field of VLSI interested me the most. With profound curiousity for working of computers from childhood, I feel deeply motivated to improve my knowledge in this field and contribute to it with novel research. Striving to reach my goal, I would be honored to pursue my masters in the stream of Computer Engineering in the University of California San Diego.
 
 I have always been fascinated by computers. The flexibility of its applications and its widespread usage made me extremely curious about their detailed design. This was reflected in my undergraduate in Electrical and Electronics Engineering, where I developed a keen interest in the field of VLSI and computer logic. The complex nature and the far reaching applications of these topics motivate me to further my knowledge in this domain by pursuing a masters in Computer Engineering and contribute to the field with novel research. 
 
